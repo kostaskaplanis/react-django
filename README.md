@@ -68,7 +68,7 @@ yarn dev    # or npm run dev
 Example (Books API):
 
 * `GET /api/books/` – List all books
-* `POST /api/books/` – Create a book
+* `POST /api/books/create` – Create a book
 * `PUT /api/books/:id/` – Update a book
 * `DELETE /api/books/:id/` – Delete a book
 
