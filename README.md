@@ -126,9 +126,3 @@ CORS_ALLOWED_ORIGINS = [
 
 MIT License.
 
-```
-
----
-
-You can now copy and save this into a file named `README.md` inside your project root. Let me know if you want to include example screenshots, routes, or .env setup.
-```
