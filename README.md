@@ -1,8 +1,4 @@
-Sure! Here's the entire content from the previous message as a `.md` file content:
 
----
-
-```markdown
 # react-django
 
 A simple full-stack CRUD application using **React (Vite)** on the frontend and **Django + Django REST Framework** on the backend.
